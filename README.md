@@ -38,3 +38,5 @@ If you also wanna contant me You will need discord.
 my Discord Tag: RonaldoMen#4661
 
 [Register to discord](https://discord.com)
+
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolboigghh &theme=radical)
