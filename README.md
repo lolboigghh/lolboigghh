@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 If you also wanna contant me You will need discord.
 my Discord Tag: RonaldoMen#4661
 
-[Register to discord][discord.com]
+[Register to discord][https://discord.com]
