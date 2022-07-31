@@ -40,6 +40,6 @@ my Discord Tag: RonaldoMen#4661
 [Register to discord](https://discord.com)
 
 ### My Roblox User Link
-[![roblox](https://img.shields.io/badge/lolboigghh-red?logo=roblox&logoColor=white)](https://web.https://roblox.com/users/1361773554/profile)
+[![roblox](https://img.shields.io/badge/lolboigghh-red?logo=roblox&logoColor=white)](https://roblox.com/users/1361773554/profile)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lolboigghh&theme=radical)
